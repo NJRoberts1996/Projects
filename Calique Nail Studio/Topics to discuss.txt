@@ -1,0 +1,43 @@
+colour scheme
+*light colours
+*girlish
+*-pink
+*-mint
+will my current system be used or full redesign
+*yes
+layout adjustments
+*fullscreen
+default/admin access and password (system maintenance)
+* admin admin	*-*
+password protection on database
+*yes -admin	xx
+
+Work time 7-5
+
+=====================================================================
+
+New booking
+Edit booking method
+Finalise booking Form and method
+? print receipt ?
+
+client removal window
+edit clients window
+
+Fill database with test values
+CheckDoubleBookings method
+Notification method
+? database backup daily ?
+
+Owner window?
+   Add/view expenses window
+   expenses maintenance (add change remove expense type)
+   generate report
+
+Still need to do:
+-fix errors in new booking and load booking and edit
+-report
+-integrity of deleting expense type
+-email system
+-finish client edit
+-remove stock systems

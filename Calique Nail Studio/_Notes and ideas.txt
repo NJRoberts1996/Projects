@@ -1,0 +1,14 @@
+Please make any notes and ideas for the project here
+
+Check for dotnet 4.5 and install if not present
+include a dotnet 4.5 installation file in the program file
+
+
+
+Password protect the database
+to access the passworded db:
+	https://stackoverflow.com/questions/2412049/how-to-open-access-database-with-password-in-c
+
+
+for help on tlpBookings (TableLayoutPanel):
+https://www.youtube.com/watch?v=9HPEMJDB5-s

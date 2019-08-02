@@ -1,0 +1,183 @@
+C:\Users\Robin\Google Drive\Univ 2017\ITRW213\Project\Chalique Nail Studio\Chalique Nail Studio\bin\Debug\Chalique Nail Studio.exe.config
+C:\Users\Robin\Google Drive\Univ 2017\ITRW213\Project\Chalique Nail Studio\Chalique Nail Studio\bin\Debug\Chalique Nail Studio.exe
+C:\Users\Robin\Google Drive\Univ 2017\ITRW213\Project\Chalique Nail Studio\Chalique Nail Studio\bin\Debug\Chalique Nail Studio.pdb
+C:\Users\Robin\Google Drive\Univ 2017\ITRW213\Project\Chalique Nail Studio\Chalique Nail Studio\obj\Debug\Chalique Nail Studio.csprojResolveAssemblyReference.cache
+C:\Users\Robin\Google Drive\Univ 2017\ITRW213\Project\Chalique Nail Studio\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.frmMain.resources
+C:\Users\Robin\Google Drive\Univ 2017\ITRW213\Project\Chalique Nail Studio\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.New_Booking.resources
+C:\Users\Robin\Google Drive\Univ 2017\ITRW213\Project\Chalique Nail Studio\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Properties.Resources.resources
+C:\Users\Robin\Google Drive\Univ 2017\ITRW213\Project\Chalique Nail Studio\Chalique Nail Studio\obj\Debug\Chalique Nail Studio.csproj.GenerateResource.Cache
+C:\Users\Robin\Google Drive\Univ 2017\ITRW213\Project\Chalique Nail Studio\Chalique Nail Studio\obj\Debug\Chalique Nail Studio.exe
+C:\Users\Robin\Google Drive\Univ 2017\ITRW213\Project\Chalique Nail Studio\Chalique Nail Studio\obj\Debug\Chalique Nail Studio.pdb
+C:\Users\Robin\Google Drive\Univ 2017\ITRW213\Project\Chalique Nail Studio\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Finish_booking.resources
+C:\Users\Robin\Google Drive\Univ 2017\ITRW213\Project\Chalique Nail Studio\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Login.resources
+C:\Users\Robin\Google Drive\Univ 2017\ITRW213\Project\Chalique Nail Studio\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.User_control.resources
+C:\Users\Robin\Google Drive\Univ 2017\Shared projects\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\Chalique Nail Studio.exe.config
+C:\Users\Robin\Google Drive\Univ 2017\Shared projects\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique Nail Studio.exe
+C:\Users\Robin\Google Drive\Univ 2017\Shared projects\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique Nail Studio.pdb
+C:\Users\Robin\Google Drive\Univ 2017\Shared projects\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\Chalique Nail Studio.exe
+C:\Users\Robin\Google Drive\Univ 2017\Shared projects\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\Chalique Nail Studio.pdb
+C:\Users\Robin\Google Drive\Univ 2017\Shared projects\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique Nail Studio.csprojResolveAssemblyReference.cache
+C:\Users\Robin\Google Drive\Univ 2017\Shared projects\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Finish_booking.resources
+C:\Users\Robin\Google Drive\Univ 2017\Shared projects\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.frmMain.resources
+C:\Users\Robin\Google Drive\Univ 2017\Shared projects\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Login.resources
+C:\Users\Robin\Google Drive\Univ 2017\Shared projects\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.New_Booking.resources
+C:\Users\Robin\Google Drive\Univ 2017\Shared projects\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Properties.Resources.resources
+C:\Users\Robin\Google Drive\Univ 2017\Shared projects\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.User_control.resources
+C:\Users\Robin\Google Drive\Univ 2017\Shared projects\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique Nail Studio.csproj.GenerateResource.Cache
+C:\Users\Arno\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\Chalique Nail Studio.exe.config
+C:\Users\Arno\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\Chalique Nail Studio.exe
+C:\Users\Arno\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\Chalique Nail Studio.pdb
+C:\Users\Arno\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique Nail Studio.csprojResolveAssemblyReference.cache
+C:\Users\Arno\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Admin.resources
+C:\Users\Arno\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Finish_booking.resources
+C:\Users\Arno\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.frmMain.resources
+C:\Users\Arno\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Login.resources
+C:\Users\Arno\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.New_Booking.resources
+C:\Users\Arno\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Properties.Resources.resources
+C:\Users\Arno\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.User_control.resources
+C:\Users\Arno\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique Nail Studio.csproj.GenerateResource.Cache
+C:\Users\Arno\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique Nail Studio.exe
+C:\Users\Arno\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique Nail Studio.pdb
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\Chalique Nail Studio.exe.config
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique Nail Studio.exe
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique Nail Studio.pdb
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\Chalique Nail Studio.exe
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\Chalique Nail Studio.pdb
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique Nail Studio.csprojResolveAssemblyReference.cache
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Admin.resources
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Finish_booking.resources
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.frmMain.resources
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Login.resources
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.New_Booking.resources
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Properties.Resources.resources
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.User_control.resources
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique Nail Studio.csproj.GenerateResource.Cache
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\stdole.dll
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\Chalique Nail Studio.exe.config
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\Chalique Nail Studio.exe
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\Chalique Nail Studio.pdb
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique Nail Studio.csprojResolveAssemblyReference.cache
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Admin.resources
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Change_Email_Message.resources
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Client_Management.resources
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Edit_email_settings.resources
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Finish_booking.resources
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.frmMain.resources
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.IEReport.resources
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Login.resources
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.New_Booking.resources
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Properties.Resources.resources
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.User_control.resources
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique Nail Studio.csproj.GenerateResource.Cache
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique Nail Studio.csproj.CoreCompileInputs.cache
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique Nail Studio.exe
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique Nail Studio.pdb
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\FlashControlV71.dll
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Verster\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\stdole.dll
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Change_Email_Message.resources
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Client_Management.resources
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Edit_email_settings.resources
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.IEReport.resources
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\FlashControlV71.dll
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Armee\Documents\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\RKW-PostGrad\Google Drive\UNIVERSITY\second Year\Second Semester\ITRW 225\Project\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\Chalique Nail Studio.exe.config
+C:\Users\RKW-PostGrad\Google Drive\UNIVERSITY\second Year\Second Semester\ITRW 225\Project\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\Chalique Nail Studio.exe
+C:\Users\RKW-PostGrad\Google Drive\UNIVERSITY\second Year\Second Semester\ITRW 225\Project\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\Chalique Nail Studio.pdb
+C:\Users\RKW-PostGrad\Google Drive\UNIVERSITY\second Year\Second Semester\ITRW 225\Project\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\RKW-PostGrad\Google Drive\UNIVERSITY\second Year\Second Semester\ITRW 225\Project\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\RKW-PostGrad\Google Drive\UNIVERSITY\second Year\Second Semester\ITRW 225\Project\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\RKW-PostGrad\Google Drive\UNIVERSITY\second Year\Second Semester\ITRW 225\Project\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\RKW-PostGrad\Google Drive\UNIVERSITY\second Year\Second Semester\ITRW 225\Project\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\RKW-PostGrad\Google Drive\UNIVERSITY\second Year\Second Semester\ITRW 225\Project\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\RKW-PostGrad\Google Drive\UNIVERSITY\second Year\Second Semester\ITRW 225\Project\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\RKW-PostGrad\Google Drive\UNIVERSITY\second Year\Second Semester\ITRW 225\Project\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\RKW-PostGrad\Google Drive\UNIVERSITY\second Year\Second Semester\ITRW 225\Project\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\RKW-PostGrad\Google Drive\UNIVERSITY\second Year\Second Semester\ITRW 225\Project\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\RKW-PostGrad\Google Drive\UNIVERSITY\second Year\Second Semester\ITRW 225\Project\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\RKW-PostGrad\Google Drive\UNIVERSITY\second Year\Second Semester\ITRW 225\Project\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\RKW-PostGrad\Google Drive\UNIVERSITY\second Year\Second Semester\ITRW 225\Project\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\RKW-PostGrad\Google Drive\UNIVERSITY\second Year\Second Semester\ITRW 225\Project\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\stdole.dll
+C:\Users\RKW-PostGrad\Google Drive\UNIVERSITY\second Year\Second Semester\ITRW 225\Project\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique Nail Studio.csprojAssemblyReference.cache
+C:\Users\RKW-PostGrad\Google Drive\UNIVERSITY\second Year\Second Semester\ITRW 225\Project\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Admin.resources
+C:\Users\RKW-PostGrad\Google Drive\UNIVERSITY\second Year\Second Semester\ITRW 225\Project\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Change_Email_Message.resources
+C:\Users\RKW-PostGrad\Google Drive\UNIVERSITY\second Year\Second Semester\ITRW 225\Project\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Client_Management.resources
+C:\Users\RKW-PostGrad\Google Drive\UNIVERSITY\second Year\Second Semester\ITRW 225\Project\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Edit_email_settings.resources
+C:\Users\RKW-PostGrad\Google Drive\UNIVERSITY\second Year\Second Semester\ITRW 225\Project\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Finish_booking.resources
+C:\Users\RKW-PostGrad\Google Drive\UNIVERSITY\second Year\Second Semester\ITRW 225\Project\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.frmMain.resources
+C:\Users\RKW-PostGrad\Google Drive\UNIVERSITY\second Year\Second Semester\ITRW 225\Project\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.IEReport.resources
+C:\Users\RKW-PostGrad\Google Drive\UNIVERSITY\second Year\Second Semester\ITRW 225\Project\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Login.resources
+C:\Users\RKW-PostGrad\Google Drive\UNIVERSITY\second Year\Second Semester\ITRW 225\Project\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.New_Booking.resources
+C:\Users\RKW-PostGrad\Google Drive\UNIVERSITY\second Year\Second Semester\ITRW 225\Project\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Properties.Resources.resources
+C:\Users\RKW-PostGrad\Google Drive\UNIVERSITY\second Year\Second Semester\ITRW 225\Project\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.User_control.resources
+C:\Users\RKW-PostGrad\Google Drive\UNIVERSITY\second Year\Second Semester\ITRW 225\Project\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique Nail Studio.csproj.GenerateResource.cache
+C:\Users\RKW-PostGrad\Google Drive\UNIVERSITY\second Year\Second Semester\ITRW 225\Project\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique Nail Studio.csproj.CoreCompileInputs.cache
+C:\Users\RKW-PostGrad\Google Drive\UNIVERSITY\second Year\Second Semester\ITRW 225\Project\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique Nail Studio.csproj.CopyComplete
+C:\Users\RKW-PostGrad\Google Drive\UNIVERSITY\second Year\Second Semester\ITRW 225\Project\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique Nail Studio.exe
+C:\Users\RKW-PostGrad\Google Drive\UNIVERSITY\second Year\Second Semester\ITRW 225\Project\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique Nail Studio.pdb
+C:\Users\RKW-PostGrad\Desktop\Projects\Chalique Nail Studio\Project\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\Chalique Nail Studio.exe.config
+C:\Users\RKW-PostGrad\Desktop\Projects\Chalique Nail Studio\Project\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\Chalique Nail Studio.exe
+C:\Users\RKW-PostGrad\Desktop\Projects\Chalique Nail Studio\Project\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\Chalique Nail Studio.pdb
+C:\Users\RKW-PostGrad\Desktop\Projects\Chalique Nail Studio\Project\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\RKW-PostGrad\Desktop\Projects\Chalique Nail Studio\Project\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\RKW-PostGrad\Desktop\Projects\Chalique Nail Studio\Project\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\RKW-PostGrad\Desktop\Projects\Chalique Nail Studio\Project\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\RKW-PostGrad\Desktop\Projects\Chalique Nail Studio\Project\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\RKW-PostGrad\Desktop\Projects\Chalique Nail Studio\Project\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\RKW-PostGrad\Desktop\Projects\Chalique Nail Studio\Project\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\RKW-PostGrad\Desktop\Projects\Chalique Nail Studio\Project\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\RKW-PostGrad\Desktop\Projects\Chalique Nail Studio\Project\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\RKW-PostGrad\Desktop\Projects\Chalique Nail Studio\Project\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\RKW-PostGrad\Desktop\Projects\Chalique Nail Studio\Project\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\RKW-PostGrad\Desktop\Projects\Chalique Nail Studio\Project\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\RKW-PostGrad\Desktop\Projects\Chalique Nail Studio\Project\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\RKW-PostGrad\Desktop\Projects\Chalique Nail Studio\Project\chalique-nail-studio-management-system\Chalique Nail Studio\bin\Debug\stdole.dll
+C:\Users\RKW-PostGrad\Desktop\Projects\Chalique Nail Studio\Project\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique Nail Studio.csprojAssemblyReference.cache
+C:\Users\RKW-PostGrad\Desktop\Projects\Chalique Nail Studio\Project\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Admin.resources
+C:\Users\RKW-PostGrad\Desktop\Projects\Chalique Nail Studio\Project\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Change_Email_Message.resources
+C:\Users\RKW-PostGrad\Desktop\Projects\Chalique Nail Studio\Project\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Client_Management.resources
+C:\Users\RKW-PostGrad\Desktop\Projects\Chalique Nail Studio\Project\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Edit_email_settings.resources
+C:\Users\RKW-PostGrad\Desktop\Projects\Chalique Nail Studio\Project\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Finish_booking.resources
+C:\Users\RKW-PostGrad\Desktop\Projects\Chalique Nail Studio\Project\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.frmMain.resources
+C:\Users\RKW-PostGrad\Desktop\Projects\Chalique Nail Studio\Project\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.IEReport.resources
+C:\Users\RKW-PostGrad\Desktop\Projects\Chalique Nail Studio\Project\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Login.resources
+C:\Users\RKW-PostGrad\Desktop\Projects\Chalique Nail Studio\Project\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.New_Booking.resources
+C:\Users\RKW-PostGrad\Desktop\Projects\Chalique Nail Studio\Project\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.Properties.Resources.resources
+C:\Users\RKW-PostGrad\Desktop\Projects\Chalique Nail Studio\Project\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique_Nail_Studio.User_control.resources
+C:\Users\RKW-PostGrad\Desktop\Projects\Chalique Nail Studio\Project\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique Nail Studio.csproj.GenerateResource.cache
+C:\Users\RKW-PostGrad\Desktop\Projects\Chalique Nail Studio\Project\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique Nail Studio.csproj.CoreCompileInputs.cache
+C:\Users\RKW-PostGrad\Desktop\Projects\Chalique Nail Studio\Project\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique Nail Studio.csproj.CopyComplete
+C:\Users\RKW-PostGrad\Desktop\Projects\Chalique Nail Studio\Project\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique Nail Studio.exe
+C:\Users\RKW-PostGrad\Desktop\Projects\Chalique Nail Studio\Project\chalique-nail-studio-management-system\Chalique Nail Studio\obj\Debug\Chalique Nail Studio.pdb

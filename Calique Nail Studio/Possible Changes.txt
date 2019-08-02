@@ -1,0 +1,1 @@
+* When deleting client, maybe show a list of current existing client and then just select to delete. (The current textbox can be used as a search bar)
