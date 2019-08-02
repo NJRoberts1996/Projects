@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="clientinfo">
+
+<!--==================================================HEAD=======================================================-->
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <link rel="stylesheet" type="text/css" href="vendors/css/normalize.css">
+        <link rel="stylesheet" type="text/css" href="vendors/css/grid.css">
+        <link rel="stylesheet" type="text/css" href="resources/css/profile-style.css">
+        <link rel="stylesheet" type="text/css" href="resources/css/queries.css">
+        <link href="https://fonts.googleapis.com/css?family=Lato:100,300,300i,400" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="vendors/css/ionicons.min.css">
+        <script src="profile.js"></script>
+       
+        <title>deQ Queueing service</title>
+        
+    </head>
+<!--=========================================================================================================-->
+
+
+
+<!--==================================================BODY=======================================================-->
+    <body>
+
+        <!-------------------------------------------------HEADER------------------------------------------------------------------>
+        <header>
+            <nav>
+                <!--navigation bar with link buttons on left hand side-->
+                <div id="navbar">
+                    <a href="index.html"><img src="resources/img/deQ%20logo.svg" alt="deQ logo" class="logo"></a>
+                    <ul class="main-nav">
+                        <li> <a href="index.html">Home</a> </li>
+                        <li> <a href="index.html#about-us-anchor">Our story</a> </li>
+                        <li> <a href="index.html#our-team-anchor">Our team</a> </li>
+                        <li> <a href="index.html#contact-us-anchor">Contact us</a> </li>
+                    </ul>
+                    <!--log out in right hand side of navigation bar-->
+                    <ul class="main-nav">
+                        <li> <a class="logout" href="index.html">Log out</a> </li>
+                    </ul>
+                </div>
+            </nav>
+            <div class="head">
+                <div class="profile-text-box">
+                    <h1>Your profile</h1>
+                </div>
+            </div>
+        </header>
+        <!------------------------------------------------------------------------------------------------------------------->
+        
+         <!-------------------------------------------------------DISPLAY DIV------------------------------------------------------------>
+        <div class="profile-body" ng-controller="infocontroller">
+           
+
+           <!------------------------------------------LEFT HAND SIDE COLUMN--------------------------------------------------------->
+            <div class="col profile-sidebar">
+                <ul>
+                    <li><a href="#profile-info"><ion-icon name="ios-contact" class="small-icon"></ion-icon>Profile information</a></li>
+                    <li><a href="#profile-documents"><ion-icon name="ios-paper" class="small-icon"></ion-icon>Documents uploaded</a></li>
+                </ul>
+            </div>
+            <!------------------------------------------------------------------------------------------------------------------->
+
+            <!-------------------------------------------------------------SECTION SHOWING DETAILS------------------------------------------------------>
+                                                 <!--container of rows with labels on each row, showing details of person logged on-->
+            <div class="content">
+                <section class="section-profile-info" id="section-profile-info">
+                    <a class="anchor" id="profile-info"></a>
+                    <div class="row">
+                        <div class="col span-1-of-4">
+                            <label>Name:</label>
+                        </div>
+                        <div class="col span-3-of-4">
+                            <label name = "profileName" id="profileName" class="profile-name"></label>
+                        </div>
+                    </div>
+                    
+                    
+                    
+                    <div class="row">
+                        <div class="col span-1-of-4">
+                            <label>Surname:</label>
+                        </div>
+                        <div class="col span-3-of-4">
+                            <label name = "profileSurname" id="profileSurname" class="profile-surname"></label>
+                        </div>
+                    </div>
+                    
+                    
+                    <div class="row">
+                        <div class="col span-1-of-4">
+                            <label>SA ID number:</label>
+                        </div>
+                        <div class="col span-3-of-4">
+                            <label name = "profileID" id="profileID" class="profile-ID"></label>
+                        </div>
+                    </div>
+                    
+                    
+                    
+                     <div class="row">
+                        <div class="col span-1-of-4">
+                            <label>Telephone number:</label>
+                        </div>
+                        <div class="col span-3-of-4">
+                            <label name = "profileTel" id="profileTel" class="profile-call"></label>
+                        </div>
+                    </div>
+                    
+                    
+                    
+                    <div class="row">
+                        <div class="col span-1-of-4">
+                            <label>Email address:</label>
+                        </div>
+                        <div class="col span-3-of-4">
+                            <label name = "profileEmail" id="profileEmail" class="profile-email"></label>
+                        </div>
+                    </div>
+                    
+                    
+    
+                    <div class="row">
+                        <div class="col span-1-of-4">
+                            <label>Physical Address:</label>
+                        </div>
+                        <div class="col span-3-of-4">
+                            <label id="profileAddress1" class="profile-address"></label><br>
+                            <label id="profileAddress2"></label><br>
+                            <label id="profileAddress3"></label><br>
+                            <label id="profilePostal"></label>
+                           
+                        </div>
+                    </div>
+                    
+                    
+                    
+                    <div class="row">
+                        <a class="btn float-middle" href="#" onclick="profile_edit()">Edit details</a>
+                    </div>
+                </section>
+ <!-----------------------------------------------------------CLOSING SECTION------------------------------------------------------->
+
+
+<!------------------------------------------------------------------SECTION ALLOWING TO EDIT------------------------------------------------->
+                   <!--container of rows with inputs on each row, showing details of person logged on, allowing edits on details of labels-->
+
+
+                <form method="POST" action="update-profile" class="update-profile">
+                <section class="section-profile-info-edit" id="section-profile-info-edit">
+                    <form action="/profile" autocomplete="on" method="post">
+                        <a class="anchor" id="profile-info"></a>
+                        <div class="row">
+                            <div class="col span-1-of-4">
+                                <label>Name:</label>
+                            </div>
+                            <div class="col span-3-of-4">
+                                <input type="text" name="profileName" id="given-name" placeholder="Your name" required>
+                            </div>
+                        </div>
+                        
+                        
+                        <div class="row">
+                            <div class="col span-1-of-4">
+                                <label>surname:</label>
+                            </div>
+                            <div class="col span-3-of-4">
+                                <input type="text" name="profileSurname" id="family-name" placeholder="Your surname" required>
+                            </div>
+                        </div>
+                        
+                         <div class="row">
+                            <div class="col span-1-of-4">
+                                <label>SA ID number:</label>
+                            </div>
+                            <div class="col span-3-of-4">
+                                <input type="text" name="profileID" id="said" placeholder="South African ID number">
+                            </div>
+                        </div>
+                        
+                        <div class="row">
+                            <div class="col span-1-of-4">
+                                <label>Telephone number:</label>
+                            </div>
+                            <div class="col span-3-of-4">
+                                <input type="tel" name="profileTel" id="tel" placeholder="Cell Number">
+                            </div>
+                        </div>
+                        
+                        
+                        <div class="row">
+                            <div class="col span-1-of-4">
+                                <label>Email address:</label>
+                            </div>
+                            <div class="col span-3-of-4">
+                                <input type="email" name="profileEmail" id="email" placeholder="Email Address" required >
+                            </div>
+                        </div>
+                     
+                        
+                        
+                        <div class="row">
+                            <div class="col span-1-of-4">
+                                <label>Physical address:</label>
+                            </div>
+                            <div class="col span-3-of-4">
+                                <input type="text" name="profileAddress1" id="address-line1" placeholder="Physical address" >
+                            </div>
+                        </div>
+                        <div class="row addr">
+                            <div class="col span-1-of-4">
+                                <label>&nbsp;</label>
+                            </div>
+                            <div class="col span-3-of-4">
+                                <input type="text" name="profileAddress2" id="address-line2" >
+                            </div>
+                        </div>
+                        <div class="row addr">
+                            <div class="col span-1-of-4">
+                                <label>&nbsp;</label>
+                            </div>
+                            <div class="col span-3-of-4">
+                                <input type="text" name="profileAddress3" id="address-line3" >
+                            </div>
+                        </div>
+                        <div class="row addr">
+                            <div class="col span-1-of-4">
+                                <label>Postal Code:</label>
+                            </div>
+                            <div class="col span-3-of-4">
+                                <input type="text" name="profilePostal" id="postal-code" placeholder="1234" >
+                            </div>
+                        </div>
+                        
+                        
+                        <div class="row">
+                            <input type="submit" value="Done" class="btn float-middle">
+                        </div>
+                    </form>
+                </section>
+  <!--------------------------------------------------CLOSE SECTION----------------------------------------------------------------->
+                        
+                        
+                        
+  
+    <!-----------------------------------------------------PROJECT UPLOAD SECTION-------------------------------------------------->                                      
+                                          <!--section to upload all the documents-->                        
+      
+                <section class="section-documents">
+
+                    <a class="anchor" id="profile-documents"></a>
+
+
+                    <div class="row doc-div">
+                        <div class="Document-upload col span-1-of-2">
+                            <label>ID document</label>
+                               <form id    =  "uploadForm"
+                                 enctype   =  "multipart/form-data"
+                                 action    =  "/profile/uploadID"
+                                 method    =  "post"
+                                >
+                            <input type="file" name="idDoc" />
+                            <input type="submit" value="Upload File" name="submit">
+                            </form> 
+                         </div>
+                        
+                        
+                        
+                        <div class="Document-upload col span-1-of-2">
+                            <label>Drivers Licence</label>
+                               <form id    =  "uploadForm"
+                                 enctype   =  "multipart/form-data"
+                                 action    =  "/profile/uploadDL"
+                                 method    =  "post"
+                                >
+                            <input type="file" name="driversLicense" />
+                            <input type="submit" value="Upload File" name="submit">
+                            </form> 
+                         </div>
+                        
+                        
+                        
+                        <div class="Document-upload col span-1-of-2">
+                            <label>Proof of residence</label>
+                               <form id    =  "uploadForm"
+                                 enctype   =  "multipart/form-data"
+                                 action    =  "/profile/uploadPOR"
+                                 method    =  "post"
+                                >
+                            <input type="file" name="proofOfResidence" />
+                            <input type="submit" value="Upload File">
+                            </form> 
+                         </div>
+                        
+                        
+                        
+                        <div class="Document-upload col span-1-of-2">
+                            <label>3 Month Bank statement</label>
+                               <form id    =  "uploadForm"
+                                 enctype   =  "multipart/form-data"
+                                 action    =  "/profile/uploadBS"
+                                 method    =  "post"
+                                >
+                                   
+                            <input type="file" name="BankStatement" />
+                            <input type="submit" value="Upload File">
+                            </form> 
+                         </div>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+
+
+
+<!--
+                    
+                     <div id="drag-drop-area"></div>
+
+            
+                    <a class="anchor" id="profile-documents"></a>
+                    <div class="doc-div">
+                        
+                        
+                        
+                        
+                        
+                        <div>
+                            <form action="/profile" method="post" enctype="multipart/form-data">
+                                <input class="doc-img"  type="file" name="File_Location" />
+                                <input type="submit" value="submit files" class="btn float-middle" onclick="fileuploaded()" >
+                            </form>
+                        </div>
+                        
+                        
+                        <script>
+                            
+                            function fileuploaded()
+                            {
+                                var http = require('http');
+                                var formidable = require('formidable');
+                                var fs = require('fs');
+
+                                http.createServer(function (req, res) {
+                                  if (req.url == '/fileupload') {
+                                    var form = new formidable.IncomingForm();
+                                    form.parse(req, function (err, fields, files) {
+                                      var oldpath = files.filetoupload.path;
+                                      var newpath = 'C:/Users/Franco/Temp file upload' + files.filetoupload.name;
+                                      fs.rename(oldpath, newpath, function (err) {
+                                        if (err) throw err;
+                                        res.write('File uploaded and moved!');
+                                        res.end();
+                                      });
+                                 });
+                                  } else {
+                                    res.writeHead(200, {'Content-Type': 'text/html'});
+                                    res.write('<form action="fileupload" method="post" enctype="multipart/form-data">');
+                                    res.write('<input type="file" name="filetoupload"><br>');
+                                    res.write('<input type="submit">');
+                                    res.write('</form>');
+                                    return res.end();
+                                  }
+                                }).listen(3000);
+                                window.alert("file uploaded successfully");
+                            }
+                        </script>
+                        
+                        
+                        
+                        <div class="doc-img">
+                            <img src="#" alt="doc-img">
+                        </div>
+                        <div class="doc-name">
+                            <label>Document name</label>
+                        </div>
+                        
+ -->
+                    
+                    </div>
+                       
+                
+                </section>
+                </form>
+            </div>        
+        </div>
+        <!-----------------------------------------------------CLOSE PROJECT UPLOAD SECTION-------------------------------------------------->                                      
+
+
+
+        <!--------------------------------------------------------SCRIPT TO EDIT LEFT COLMN CONTAINER--------------------------------------------------->  
+                                                 <!--display of either label page or the edit detail page-->
+       
+        <script src="https://unpkg.com/ionicons@4.3.0/dist/ionicons.js"></script>
+        <script>
+            var pr1 = document.getElementById('section-profile-info');
+            var pr2 = document.getElementById('section-profile-info-edit');
+            
+            function profile_edit() {
+                pr1.style.display = 'none';
+                pr2.style.display = 'block';
+            }
+            
+            function profile_done() {
+                pr1.style.display = 'block';
+                pr2.style.display = 'none';
+            }
+        </script>
+<!--------------------------------------------------------END SCRIPT TO EDIT LEFT COLMN CONTAINER--------------------------------------------------->  
+
+
+    <!--link to the profile.js so that the ids defined will be able to connect-->
+        <script src="profile.js"></script>
+
+
+
+    </body>
+    <!--=========================================================================================================-->
+    
+</html>

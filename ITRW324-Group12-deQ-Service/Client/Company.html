@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="en">
+    <!--==================================================HEAD=======================================================-->
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <link rel="stylesheet" type="text/css" href="vendors/css/normalize.css">
+        <link rel="stylesheet" type="text/css" href="vendors/css/grid.css">
+        <link rel="stylesheet" type="text/css" href="resources/css/profile-style.css">
+        <link rel="stylesheet" type="text/css" href="resources/css/queries.css">
+        <link href="https://fonts.googleapis.com/css?family=Lato:100,300,300i,400" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="vendors/css/ionicons.min.css">
+        
+        
+        <title>deQ Queueing service</title>
+        
+    </head>
+    <!--=========================================================================================================-->
+
+    <!--=================================================BODY========================================================-->
+    <body>
+
+        <!-------------------------------------------------HEADER------------------------------------------------------------------>
+        <header>
+            <nav>
+                <!--navigation bar with link buttons on left hand side-->
+                <div id="navbar">
+                    <a href="index.html"><img src="resources/img/deQ%20logo.svg" alt="deQ logo" class="logo"></a>
+                    <ul class="main-nav">
+                        <li> <a href="index.html">Home</a> </li>
+                        <li> <a href="index.html#our-story-explanation">Our story</a> </li>
+                        <li> <a href="index.html#section-team">Our team</a> </li>
+                        <li> <a href="index.html#contact-us-email">Contact us</a> </li>
+                    </ul>
+                    <!--log out in right hand side of navigation bar-->
+                    <ul class="main-nav">
+                        <li> <a class="logout" href="index.html">Log out</a> </li>
+                    </ul>
+                </div>
+            </nav>
+            <div class="head">
+                <div class="profile-text-box">
+                    <h1>Company Page</h1>
+                </div>
+            </div>
+        </header>
+       <!------------------------------------------------------------------------------------------------------------------->
+        
+        
+        
+        
+     <!-------------------------------------------------------DISPLAY DIV------------------------------------------------------------>                                           
+        <div class="profile-body" >
+
+
+            <!------------------------------------------LEFT HAND SIDE COLUMN--------------------------------------------------------->
+            <div class="col profile-sidebar">
+                <ul>
+                    <li><a href="Company.html" class=""><ion-icon name="iosContact" class="small-icon"></ion-icon>Company Information</a></li>
+                    <li><a href="Company2.html" class=""><ion-icon name="iosPaper" class="small-icon"></ion-icon>Queue Information</a></li>
+                </ul>
+            </div>
+            <!------------------------------------------------------------------------------------------------------------------->
+        
+
+
+         <!-------------------------------------------------------------SECTION SHOWING DETAILS------------------------------------------------------>
+                                <!--container of rows with labels on each row, showing details of company logged on-->
+
+            <div class="content">
+                <!--<form method="GET" action="/company/info" class="update-profile">-->
+                <section class="section-profile-info" id="section-profile-info">
+                    <a class="anchor" id="profile-info"></a>
+                    <div class="row">
+                        <div class="col span-1-of-4">
+                            <label>Company Name:</label>
+                        </div>
+                        <div class="col span-3-of-4" >
+                            <label class="company-name" id="cname"></label>
+                        </div>
+                    </div>
+                    
+                    
+                    
+                    
+                    <div class="row">
+                        <div class="col span-1-of-4">
+                            <label>Number of tellers:</label>
+                        </div>
+                        <div class="col span-3-of-4">
+                            <label class="teller-amount" id="CTellers"></label>
+                        </div>
+                    </div>
+                
+                    
+                    <div class="row">
+                        <div class="col span-1-of-4">
+                            <label>Branch Name:</label>
+                        </div>
+                        <div class="col span-3-of-4">
+                            <label class="branch-name" id="CBName"></label>
+                        </div>
+                    </div>
+                    
+                    
+                    <div class="row">
+                        <div class="col span-1-of-4">
+                            <label>Company Location:</label>
+                        </div>
+                        <div class="col span-3-of-4">
+                            <label class="profile-address" id="CLocation"></label>
+                        </div>
+                    </div>
+                    
+                    
+                    <div class="row">
+                        <div class="col span-1-of-4">
+                            <label>City:</label>
+                        </div>
+                        <div class="col span-3-of-4">
+                            <label class="city" id="City"></label>
+                        </div>
+                    </div>
+                    
+                    
+                    
+                    
+                    <div class="row">
+                        <div class="col span-1-of-4">
+                            <label>Days opened:</label>
+                        </div>
+                        <div class="col span-3-of-4">
+                            <label class="days-open" id="Opend"></label>
+                        </div>
+                    </div>
+                    
+                    
+                    
+                    
+                    <div class="row">
+                        <div class="col span-1-of-4">
+                            <label>Opening time:</label>
+                        </div>
+                        <div class="col span-3-of-4">
+                            <label class="city" id="COpen"></label>
+                        </div>
+                    </div>
+                    
+                    
+                    
+                    <div class="row">
+                        <div class="col span-1-of-4">
+                            <label>Closing time:</label>
+                        </div>
+                        <div class="col span-3-of-4">
+                            <label class="city" id="CClosed"></label>
+                        </div>
+                    <a class="btn float-middle" href="#" onclick="profile_edit()">Edit details</a>
+                    </div>
+        
+                </section>
+            <!-----------------------------------------------------------CLOSING SECTION------------------------------------------------------->
+
+                            
+<!------------------------------------------------------------------SECTION ALLOWING TO EDIT------------------------------------------------->
+                   <!--container of rows with inputs on each row, showing details of company logged on, allowing edits on details of labels-->
+
+                <section class="section-profile-info-edit" id="section-profile-info-edit">
+                    <form action="/company" method="POST">
+                        <a class="anchor" id="profile-info"></a>
+                        <input type="hidden" name="service" id="service">
+                        <div class="row">
+                            <div class="col span-1-of-4">
+                                <label>Company Name:</label>
+                            </div>
+                            <div class="col span-3-of-4">
+                                <input type="text" name="companyName" id="ServiceName" autocomplete="name" required>
+                            </div>
+                        </div>
+                        
+                        
+                        
+                <div class="row">
+                            <div class="col span-1-of-4">
+                                <label>Number of tellers:</label>
+                            </div>
+                            <div class="col span-3-of-4">
+                                <select name="NoOfTellers" id="NoOfTellers" value="1-teller"> 
+                                    <option value="1" selected="selected">1</option>
+                                    <option value="2">2</option>
+                                    <option value="3">3</option>
+                                    <option value="4">4</option>
+                                    <option value="5">5</option>
+                                    <option value="6">6</option>
+                                    <option value="7">7</option>
+                                    <option value="8">8</option>
+                                    <option value="9">9</option>
+                                    <option value="10">10</option>
+                                    <option value="11">11</option>
+                                    <option value="12">12</option>
+                                </select>
+                            </div>
+                        </div>
+                        
+                        <div class="row">
+                            <div class="col span-1-of-4">
+                                <label>Branch Name:</label>
+                            </div>
+                            <div class="col span-3-of-4">
+                                <input type="text" name="BranchName" id="BranchName" required>
+                            </div>
+                        </div>
+                        
+                        
+                       <div class="row">
+                            <div class="col span-1-of-4">
+                                <label>Company Location:</label>
+                            </div>
+                            <div class="col span-3-of-4">
+                                <input type="text" name="Location" id="Location" placeholder="Location of Company">
+                            </div>
+                        </div>
+                    
+                       
+                        <div class="row">
+                            <div class="col span-1-of-4">
+                                <label>City:</label>
+                            </div>
+                            <div class="col span-3-of-4">
+                                <select id="City" name="City"> 
+                                  <option value="Johannesburg" selected="selected">Johannesburg</option>
+                                  <option value="Cape Town">Cape Town</option>
+                                  <option value="Pretoria">Pretoria</option>
+                                  <option value="Port Elizabeth">Port Elizabeth</option>
+                                  <option value="Durban">Durban</option>
+                                  <option value="Potchefstroom">Potchefstroom</option>
+                                </select>
+                            </div>
+                        </div>
+                        
+                        
+                         <div class="row">
+                            <div class="col span-1-of-4">
+                                <label>Days opened:</label>
+                            </div>
+                            <div class="col span-3-of-4">
+                                <select name="DaysOpen"> 
+                                  <option value="mon-fri">Monday - Friday</option>
+                                  <option value="mon-sat">Monday - Saturday</option>
+                                  <option value="mon-sun">Monday - Sunday</option>
+                                </select>
+                            </div>
+                        </div>
+                    
+                    
+                        
+                        
+                        <div class="row">
+                            <div class="col span-1-of-4">
+                                <label>Opening time:</label>
+                            </div>
+                            <div class="col span-3-of-4">
+                                <select name="OpenTime" id="OpenTime"> 
+                                    <option value="08:00" selected="selected">08h00</option>
+                                    <option value="09:00">09h00</option>
+                                    <option value="10:00">10h00</option>
+                                    <option value="11:00">11h00</option>
+                                    <option value="12:00">12h00</option>
+                                    <option value="13:00">13h00</option>
+                                    <option value="14:00">14h00</option>
+                                    <option value="15:00">15h00</option>
+                                    <option value="16:00">16h00</option>
+                                    <option value="17:00">17h00</option>
+                                    <option value="18:00">18h00</option>
+                                    <option value="19:00">19h00</option>
+                                    <option value="20:00">20h00</option>
+                                    <option value="21:00">21h00</option>
+                                    <option value="22:00">22h00</option>
+                                    <option value="23:00">23h00</option>
+                                    <option value="00:00">00h00</option>
+                                    <option value="01:00">01h00</option>
+                                    <option value="02:00">02h00</option>
+                                    <option value="03:00">03h00</option>
+                                    <option value="04:00">04h00</option>
+                                    <option value="05:00">05h00</option>
+                                    <option value="06:00">06h00</option>
+                                    <option value="07:00">07h00</option>
+                                </select>
+                            </div>
+                        </div>
+                    
+                    
+                    
+                    <div class="row">
+                            <div class="col span-1-of-4">
+                                <label>Closing time:</label>
+                            </div>
+                            <div class="col span-3-of-4">
+                                <select name="CloseTime" id="CloseTime"> 
+                                    <option value="17:00" selected="selected">17h00</option>
+                                    <option value="18:00">18h00</option>
+                                    <option value="19:00">19h00</option>
+                                    <option value="20:00">20h00</option>
+                                    <option value="21:00">21h00</option>
+                                    <option value="22:00">22h00</option>
+                                    <option value="23:00">23h00</option>
+                                    <option value="00:00">00h00</option>
+                                    <option value="01:00">01h00</option>
+                                    <option value="02:00">02h00</option>
+                                    <option value="03:00">03h00</option>
+                                    <option value="04:00">04h00</option>
+                                    <option value="05:00">05h00</option>
+                                    <option value="06:00">06h00</option>
+                                    <option value="07:00">07h00</option>
+                                    <option value="08:00">08h00</option>
+                                    <option value="09:00">09h00</option>
+                                    <option value="10:00">10h00</option>
+                                    <option value="11:00">11h00</option>
+                                    <option value="12:00">12h00</option>
+                                    <option value="13:00">13h00</option>
+                                    <option value="14:00">14h00</option>
+                                    <option value="15:00">15h00</option>
+                                    <option value="16:00">16h00</option>
+                                </select>
+                            </div>
+                        <input type="submit" value="Done" class="btn float-middle">
+                    </div>
+                    </form>
+                
+                </section>
+             </div>      
+        </div>
+        <!--------------------------------------------------CLOSE SECTION----------------------------------------------------------------->
+        
+        
+        
+    
+
+        <!-----------------------------------------------------LEFT COLUMN CONTAINER-------------------------------------------------->
+                                                 <!--container on left hand side of website-->
+        <div class="Queue-Information">
+            <div class="col profile-sidebar">
+                <ul>
+                    <li><a href="Company.html" class=""><ion-icon name="ios-contact" class="small-icon"></ion-icon>Company Information</a></li>
+                    <li><a href="Company2.html" class=""><ion-icon name="ios-paper" class="small-icon"></ion-icon>Queue Information</a></li>
+                </ul>
+            </div>
+        </div>
+    <!----------------------------------------------------------------CLOSE LEFT COLUMN CONTAINER --------------------------------------------------->
+        
+        
+      <!--------------------------------------------------------SCRIPT TO EDIT LEFT COLMN CONTAINER--------------------------------------------------->  
+                                                 <!--display of either label page or the edit detail page-->
+
+        <script src="https://unpkg.com/ionicons@4.3.0/dist/ionicons.js"></script>
+        <script>
+            var pr1 = document.getElementById('section-profile-info');
+            var pr2 = document.getElementById('section-profile-info-edit');
+            window.onload = function() {
+                pr2.style.display = 'none';
+            }
+            
+            function profile_edit() {
+                pr1.style.display = 'none';
+                pr2.style.display = 'block';
+            }
+            
+            function profile_done() {
+                pr1.style.display = 'block';
+                pr2.style.display = 'none';
+            }
+        </script>
+        
+        
+        
+        <script>
+            // When the user clicks on <div>, open the popup
+            function myFunction() {
+                var popup = document.getElementById("myPopup");
+                popup.classList.toggle("show");
+            }
+        </script>
+        <!--------------------------------------------------------END SCRIPT TO EDIT LEFT COLMN CONTAINER--------------------------------------------------->  
+        
+      <!--link to the company.js so that the ids defined will be able to connect-->      
+    <script src="Company.js"></script> 
+    </body>
+    <!--=====================================================END BODY====================================================--> 
+</html>
